@@ -1,7 +1,7 @@
 # Even or Odd Checker
 This program asks the user to enter a number and then determines whether the number is even or odd.
 
-# Features
+## Features
 - Asks the user to input a number
 - Uses the modulo operator (%) to check if the number is even or odd
 - Prints "Even" or "Odd" based on the result
